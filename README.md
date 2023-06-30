@@ -1,5 +1,8 @@
 ### Olá! Me chamo Thiago Souza. 👋
 
+Compartilharei aqui toda minha trajetória, tudo oque passei até o presente momento.
+Caso tenha alguma dica ou sugestão, aceito de bom grado!
+
 - 🌱 Estudando: MongoDB
 
 ##
