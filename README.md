@@ -1,6 +1,6 @@
 ### Olá! Me chamo Thiago Souza. 👋
 
-- 🌱 Estudando: NodeJs - MongoDB
+- 🌱 Estudando: MongoDB
 
 ##
 
