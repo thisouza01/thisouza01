@@ -6,8 +6,8 @@ Atualmente trabalho em uma floricultura e pretendo seguir como desenvolvedor bac
 Compartilharei aqui toda minha trajetória, tudo oque passei até o presente momento. </br>
 Caso tenha alguma dica ou sugestão, aceito de bom grado!
 
-- 🌱 Estudando: API-Restful (Estou fazendo um desafio durante o mês e preciso saber sobre.)
-- 🌱 Desenvolvendo a API
+- 🌱 Estudando: Testes (Estou fazendo um desafio durante o mês e preciso saber sobre.)
+- 🌱 Desenvolvendo a API - 
 
 ##
 
