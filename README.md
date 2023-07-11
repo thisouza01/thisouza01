@@ -7,7 +7,7 @@ Compartilharei aqui toda minha trajetória, tudo oque passei até o presente mom
 Caso tenha alguma dica ou sugestão, aceito de bom grado!
 
 - 🌱 Estudando: Testes (Estou fazendo um desafio durante o mês e preciso saber sobre.)
-- 🌱 Desenvolvendo a API - 
+- 🌱 Desenvolvendo a API e fazendo os primeiros testes - 
 
 ##
 
