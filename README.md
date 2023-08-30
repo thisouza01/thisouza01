@@ -6,8 +6,7 @@ Atualmente trabalho em uma floricultura e pretendo seguir como desenvolvedor bac
 Compartilharei aqui toda minha trajetória, tudo oque passei até o presente momento. </br>
 Caso tenha alguma dica ou sugestão, aceito de bom grado!
 
-- 🌱 Estudando: criptografias e tokens JWT
-- 🌱 Estudando: Cloud 
+- 🌱 Criando projetos
 
 ##
 
