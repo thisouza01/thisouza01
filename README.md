@@ -10,7 +10,9 @@ Caso tenha alguma dica ou sugestão, aceito de bom grado!
 
 ##
 
+
 <br>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisouza01&hide_progress=true&theme=dark)
 <br>
 
