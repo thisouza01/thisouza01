@@ -9,6 +9,7 @@ Atualmente, trabalho em uma floricultura, mas meu objetivo é consolidar uma car
 - **Projetos em Python:** Scripts que demonstram automações e análises de dados.  
 - **Integrações COBOL e Python:** Soluções criativas para interoperabilidade entre tecnologias.  
 - **Projeto Floricultura:** Desenvolvido para auxiliar no catálogo de plantas para floricultura.
+- **Participando BootCamp COBOL**
 
 📘 **Estou aprendendo e sempre aberto a sugestões!**  
 Se você tiver dicas ou ideias, ficarei muito grato em ouvi-las. Meu aprendizado é constante e guiado pela vontade de criar soluções eficientes.  
