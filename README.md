@@ -7,7 +7,7 @@ Atualmente, trabalho em uma floricultura, mas meu objetivo é consolidar uma car
 💡 **O que você encontrará nos meus repositórios:**  
 - **Projetos em COBOL:** Explorando conceitos como `REDEFINES`, `OCCURS` e manipulação de arquivos.  
 - **Projetos em Python:** Scripts que demonstram automações e análises de dados.  
-- **Integrações COBOL e Python:** Soluções criativas para interoperabilidade entre tecnologias.  
+- **Integrações COBOL e Python:**  
 - **Projeto Floricultura:** Desenvolvido para auxiliar no catálogo de plantas para floricultura.
 - **Participando BootCamp COBOL**
 
