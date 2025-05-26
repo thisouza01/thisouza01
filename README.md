@@ -1,28 +1,60 @@
-# Olá! Me chamo Thiago Souza. 👋  
+# 👨‍💻 Thiago Souza
 
-Sou estudante de programação desde janeiro de 2023, com foco em **COBOL** e **Python**. 
+🎯 Estudante de Desenvolvimento com foco em **COBOL**  
+🌱 Aprendendo desde **Janeiro de 2023** | Explorando também **Python** para automações e integração com sistemas legados  
 
-Atualmente, trabalho em uma floricultura, mas meu objetivo é consolidar uma carreira como desenvolvedor COBOL. Aqui, compartilho projetos que ilustram minha trajetória, desde os primeiros passos até desafios mais complexos.  
+Atualmente trabalho em uma floricultura, onde desenvolvi soluções práticas para organização de produtos
 
-💡 **O que você encontrará nos meus repositórios:**  
-- **Projetos em COBOL:** Explorando conceitos como `REDEFINES`, `OCCURS` e manipulação de arquivos.  
-- **Projetos em Python:** Scripts que demonstram automações e análises de dados.  
-- **Integrações COBOL e Python:**  
-- **Projeto Floricultura:** Desenvolvido para auxiliar no catálogo de plantas para floricultura.
-- **Participando BootCamp COBOL**
+---
 
-📘 **Estou aprendendo e sempre aberto a sugestões!**  
-Se você tiver dicas ou ideias, ficarei muito grato em ouvi-las. Meu aprendizado é constante e guiado pela vontade de criar soluções eficientes.  
+## 🚀 Objetivo Profissional
 
-🚀 **Próximos passos:**  
-- Criar mais projetos práticos e aplicáveis no dia a dia.  
-- Compartilhar exemplos de como COBOL e Python podem trabalhar juntos para modernizar sistemas.  
+Atuar como **Desenvolvedor COBOL**, contribuindo com sistemas legados e processos de modernização tecnológica.  
+Estou em busca de uma **primeira oportunidade na área de tecnologia**, onde eu possa aplicar e expandir meus conhecimentos técnicos.
 
+---
 
-<br>
+## 💼 O que você encontrará nos meus repositórios:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisouza01&hide_progress=true&theme=dark)
-<br>
+### 🖥️ Projetos COBOL
+- Manipulação de arquivos (sequenciais e indexados)
+- Cláusulas como `REDEFINES`, `OCCURS`, `INDEXED BY` e comandos de controle de fluxo
+- Projetos organizados por módulos e nível de dificuldade
 
-##
+### 🐍 Projetos Python (complementares)
+- Scripts para automação de tarefas do dia a dia
+- Análises simples de dados com Pandas e Excel
+- Projeto autoral de **catálogo de plantas para floricultura** (automatizando organização, preços e preferências)
 
+### 🔁 Integrações COBOL + Python
+- Estudos práticos de como unir a robustez do COBOL com a flexibilidade do Python
+
+---
+
+## 👨‍🎓 Em aprendizado constante
+
+- 📚 Participante do Bootcamp COBOL
+- 🧠 Aprofundando conhecimentos em: arquivos indexados, modularização, SEARCH, tratamento de erros e uso de ferramentas como NotebookLM para estudo guiado
+
+---
+
+## 🌟 Próximos passos
+
+- Criar mais projetos aplicáveis ao ambiente corporativo
+- Demonstrar o uso combinado de COBOL e Python para modernizar sistemas legados
+- Estudar testes em Python e boas práticas de versionamento
+
+---
+
+## 🤝 Estou aberto a oportunidades
+
+Se você busca alguém comprometido, com sede de aprender e focado em COBOL, será um prazer conversar!  
+📩 Me chame para bater um papo ou dar sugestões sobre meus projetos.
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisouza01&layout=compact&theme=default)
+
+---
